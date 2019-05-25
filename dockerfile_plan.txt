@@ -9,4 +9,4 @@ Dockerfile for ansible server
 5. Add user ansible
 6. Generate ssh-keygen for passwordless login
 7. Add user ansible in sudoers
-
+8. Then create client with multiple docker file
