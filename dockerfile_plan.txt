@@ -1,0 +1,12 @@
+Environment 
+
+Dockerfile for ansible server
+
+1. install epel repositories
+2. Install ansible 
+3. Install ssh and expose port 22
+4. Start and add ansible and ssh service
+5. Add user ansible
+6. Generate ssh-keygen for passwordless login
+7. Add user ansible in sudoers
+
